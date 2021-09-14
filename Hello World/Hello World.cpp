@@ -5,6 +5,7 @@ int main()
 {
 	cout << "Hello World!" << endl;
 	system("pause");
+	system("pause");
 	return 0;
 }
 
